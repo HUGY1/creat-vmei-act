@@ -10,4 +10,4 @@ creat-vmei-act，为了唯美美妆活动页而打造到脚手架工具
 运行： `creat`   
 
 
-### A cli for creating vmei activity page，for now,it is only use in my company.
+### A cli for creating vmei activity page,for now,it is only use in my company.

@@ -1,5 +1,5 @@
 {
-  "name": "creat-vmei-act",
+  "name": "create-vmei-act",
   "version": "1.0.1",
   "description": "a cli for vmei act",
   "main": "index.js",
@@ -17,6 +17,6 @@
     "ora": "^3.0.0"
   },
   "bin": {
-    "creat": "index.js"
+    "create": "./bin/create"
   }
 }
